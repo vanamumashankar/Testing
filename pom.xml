@@ -4,7 +4,7 @@
   <groupId>ABC</groupId>
   <artifactId>ABC-web-app</artifactId>
   <packaging>war</packaging>
-  <version>1</version>
+  <version>3.3.2</version>
   <name>ABC-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -19,8 +19,4 @@
     <finalName>ABC-web-app</finalName>
   </build>
 </project>
-<plugin>
-  <groupId>org.apache.maven.plugins</groupId>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>3.3.2</version>
-</plugin>
+
